@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353488776348",
+    "project_id": "rabbit-71d1f",
+    "storage_bucket": "rabbit-71d1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353488776348:android:1dad7e54f2d79d46455159",
+        "android_client_info": {
+          "package_name": "com.feilinpl.rabbit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE6oK8lOIey-MOEFl3WSvCCbSTuMic2xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
